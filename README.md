@@ -1,2 +1,2 @@
-# JSP_Day3
-This project will explore the use of the forward and include tags in JavaServer Pages (JSP). 
+# JSP SetProperty and GetProperty tags using Bean Class
+This project is focused on the use of the setProperty and getProperty tags within a JSP page that uses a bean class. </br>The setProperty tag is used to set the value of a bean property, while the getProperty tag is used to retrieve the value of a bean property. The setProperty and getProperty tags can be used to manipulate bean properties, allowing JSP pages to interact with the bean class. This project will demonstrate the use of the setProperty and getProperty tags to create a simple application that utilizes bean properties.
